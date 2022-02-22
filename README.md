@@ -1,2 +1,2 @@
-# BasicManinProjects
-一些基础的manim项目
+# manim基础项目
+这里屯的是一些非常基础的manim项目，本人是鸽子，不定期更新
